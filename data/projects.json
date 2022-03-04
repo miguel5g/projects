@@ -62,5 +62,18 @@
         "url": "http://ow-todo.vercel.app/"
       }
     ]
+  },
+  {
+    "id": "5",
+    "title": "Site pessoal (Versão 2)",
+    "description": "Meu site pessoal de cara nova, seguindo meus conhecimentos atuais.",
+    "image": "miguel5g-v2.png",
+    "image_url": "https://raw.githubusercontent.com/miguel5g/projects/main/assets/miguel5g-v2.png",
+    "urls": [
+      {
+        "label": "Github",
+        "url": "https://github.com/miguel5g/portfolio"
+      }
+    ]
   }
 ]
