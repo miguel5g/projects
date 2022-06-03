@@ -75,22 +75,5 @@
         "url": "https://github.com/miguel5g/portfolio"
       }
     ]
-  },
-  {
-    "id": "6",
-    "title": "One Week ToDo",
-    "description": "Um site para criação de tarefas com um design para lá de estranho.",
-    "image": "ow-todo.jpeg",
-    "image_url": "https://raw.githubusercontent.com/miguel5g/projects/main/assets/ow-todo.jpeg",
-    "urls": [
-      {
-        "label": "Github",
-        "url": "https://github.com/miguel5g/ow-todo-list"
-      },
-      {
-        "label": "Demo",
-        "url": "https://ow-todo.vercel.app/"
-      }
-    ]
   }
 ]
