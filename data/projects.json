@@ -30,6 +30,23 @@
     ]
   },
   {
+    "id": "6",
+    "title": "Turma 23 FM",
+    "description": "Site feito para compartilhamento de músicas de maneira democrática.",
+    "image": "turma-23-fm.png",
+    "image_url": "https://raw.githubusercontent.com/miguel5g/projects/main/assets/turma-23-fm.png",
+    "urls": [
+      {
+        "label": "Github",
+        "url": "https://github.com/miguel5g/turma-23-fm"
+      },
+      {
+        "label": "Demo",
+        "url": "https://turma-23-fm.web.app/"
+      }
+    ]
+  },
+  {
     "id": "3",
     "title": "Taskfy",
     "description": "Lading page para aplicação de gerenciamento de tarefas.",
